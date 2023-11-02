@@ -1,0 +1,38 @@
+JUEVES 2 DE NOVIEMBRE
+
+  cuando pidan diagonal del rectoedro 
+    https://www.geogebra.org/m/yduc9c4j#material/yjA7DTTZ
+
+   tipos de prisma , areas y desarrollo lateral
+     https://www.geogebra.org/m/fReDuvW2
+
+  cuando la base del prisma aumenta mucho 
+  tiende al circulo
+     https://www.geogebra.org/m/nffdzpwa 
+
+  rellenar caras vertices y aristas en prismas
+     https://www.geogebra.org/m/u6ttbvtd
+
+ disco de newton 
+   https://www.geogebra.org/m/GBYvbKqt
+ 
+dispersión de la luz en prismas
+   https://www.geogebra.org/m/ee74gmr3
+
+ demostracion de proyeccion de prisma en los ejes
+    https://www.geogebra.org/m/fvvqrzcu 
+
+   volumen de prisma y cilindro relacion que sus formulas de       volumenes son iguales
+  https://www.geogebra.org/m/pzbnnmcj
+
+  perspectiva conica de prismas
+   https://www.geogebra.org/m/jh4nc6pm
+
+
+demostración de volumen de esferas
+https://www.calculadoraconversor.com/calcular-volumen-esfera/
+
+ integrales triples para solidos de volumen
+  https://openstax.org/books/c%C3%A1lculo-volumen-3/pages/5-4-integrales-triples
+https://openstax.org/books/c%C3%A1lculo-volumen-3/pages/5-5-integrales-triples-en-coordenadas-cilindricas-y-esfericas
+
